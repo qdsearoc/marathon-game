@@ -31,9 +31,9 @@
 | 2023-04-16 | 扬州鉴真半程马拉松         |            | 江苏省体育赛事名录  |
 | 2023-04-16 | 盐城马拉松                 |            | 江苏省体育赛事名录  |
 | 2023-04-17 | Boston Marathon            |            | World Athletics     |
+| 2023-04-22 | 青岛马拉松                 |            | World Athletics     |
 | 2023-04-23 | London Marathon            |            | World Athletics     |
 | 2023-04-30 | 亳州马拉松                 | 安徽       | World Athletics     |
-| 2023-05-04 | 青岛马拉松                 |            | World Athletics     |
 | 2023-05-21 | 密云生态马拉松             | 北京       | World Athletics     |
 | 2023-05-28 | 吉林市马拉松               |            | World Athletics     |
 | 2023-06-11 | 兰州马拉松                 |            | World Athletics     |
@@ -66,7 +66,7 @@
 | 2023-11-12 | 桂林马拉松                 |            | World Athletics     |
 | 2023-11-12 | 舟山群岛马拉松             |            | World Athletics     |
 | 2023-11-18 | 义乌马拉松                 |            | World Athletics     |
-| 2023-11-19 | 肇庆马拉松                 |            | World Athletics     |
+| 2023-11-19 | 肇庆半程马拉松             |            | World Athletics     |
 | 2023-11-19 | 中国东盟马拉松             | 广西防城港 | World Athletics     |
 | 2023-11-25 | 腾冲马拉松                 | 云南       | World Athletics     |
 | 2023-11-26 | 上海马拉松                 |            | World Athletics     |
