@@ -79,6 +79,7 @@
 | 2023-11-12 | 南昌马拉松                 |            | World Athletics     |
 | 2023-11-12 | 舟山群岛马拉松             |            | World Athletics     |
 | 2023-11-18 | 义乌马拉松                 |            | World Athletics     |
+| 2023-11-19 | 合肥马拉松                 |            | World Athletics     |
 | 2023-11-19 | 肇庆半程马拉松             |            | World Athletics     |
 | 2023-11-19 | 中国东盟马拉松             | 广西防城港 | World Athletics     |
 | 2023-11-25 | 腾冲马拉松                 | 云南       | World Athletics     |
