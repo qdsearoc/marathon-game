@@ -53,7 +53,7 @@
 | 2023-06-25 | 贵州镇宁黄果树半程马拉松   | 贵州安顺   | World Athletics     |
 | *2023-07-31* | 凉都六盘水夏季马拉松     | 贵州       | World Athletics     |
 | 2023-08-27 | 哈尔滨马拉松               |            | World Athletics     |
-| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     |
+| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     | ⏲️ |
 | 2023-09-24 | 沈阳马拉松                 |            | World Athletics     |
 | 2023-09-24 | Berlin Marathon            |            | World Athletics     |
 | 2023-10-01 | 亳州马拉松                 | 安徽       | World Athletics     |
