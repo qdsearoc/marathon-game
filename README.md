@@ -72,6 +72,7 @@
 | 2023-10-29 | 常德柳叶湖马拉松           | 湖南       | World Athletics     |
 | 2023-11-04 | 环蠡湖半程马拉松           | 江苏无锡   | World Athletics     |
 | 2023-11-04 | 海峡两岸（昆山）马拉松     |            | 江苏省体育赛事名录  |
+| 2023-11-05 | 北京马拉松                 |            | World Athletics     |
 | 2023-11-05 | 杭州马拉松                 |            | World Athletics     |
 | 2023-11-05 | 重庆女子马拉松             |            | World Athletics     |
 | 2023-11-05 | 西昌邛海湿地马拉松         | 四川       | World Athletics     |
