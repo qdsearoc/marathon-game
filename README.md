@@ -53,7 +53,8 @@
 | 2023-07-16 | 凉都六盘水夏季马拉松     | 贵州       | 官宣                | ✅ |
 | 2023-08-13 | 贵州镇宁黄果树半程马拉松   | 贵州安顺   | World Athletics     |
 | 2023-08-27 | 哈尔滨马拉松               |            | World Athletics     |
-| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     | ⏲️ |
+| 2023-09-10 | 枣庄马拉松                 |            | 官宣                |
+| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     |
 | 2023-09-24 | 沈阳马拉松                 |            | World Athletics     |
 | 2023-09-24 | Berlin Marathon            |            | World Athletics     |
 | 2023-10-01 | 亳州马拉松                 | 安徽       | World Athletics     |
@@ -78,7 +79,6 @@
 | 2023-11-05 | 西昌邛海湿地马拉松         | 四川       | World Athletics     |
 | 2023-11-05 | 高淳慢城马拉松             | 江苏南京   | 江苏省体育赛事名录  |
 | 2023-11-05 | New York Marathon          |            | World Athletics     |
-| 2023-11-12 | 绍兴马拉松                 |            | World Athletics     |
 | 2023-11-12 | 南昌马拉松                 |            | World Athletics     |
 | 2023-11-12 | 舟山群岛马拉松             |            | World Athletics     |
 | 2023-11-18 | 义乌马拉松                 |            | World Athletics     |
@@ -87,6 +87,7 @@
 | 2023-11-19 | 中国东盟马拉松             | 广西防城港 | World Athletics     |
 | 2023-11-25 | 腾冲马拉松                 | 云南       | World Athletics     |
 | 2023-11-26 | 上海马拉松                 |            | World Athletics     |
+| 2023-11-26 | 绍兴马拉松                 |            | World Athletics     |
 | 2023-11-26 | 百色马拉松                 | 广西       | World Athletics     |
 | 2023-12-03 | 深圳宝安马拉松             |            | World Athletics     |
 | 2023-12-03 | 南宁马拉松                 |            | World Athletics     |
