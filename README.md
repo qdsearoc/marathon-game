@@ -47,7 +47,6 @@
 | 2023-05-21 | 密云生态马拉松             | 北京       | World Athletics     | ✅ |
 | 2023-05-21 | 海阳马拉松                 | 山东烟台  | 官宣                | 1:43:13 |
 | 2023-05-21 | 太原马拉松                 |            | 官宣                | ✅ |
-| 2023-05-21 | 淄博马拉松                 |            | 官宣                |
 | 2023-06-11 | 吉林市马拉松               |            | World Athletics     | ✅ |
 | 2023-06-11 | 兰州马拉松                 |            | World Athletics     | ✅ |
 | 2023-07-16 | 凉都六盘水夏季马拉松     | 贵州       | 官宣                | ✅ |
@@ -57,6 +56,7 @@
 | 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     |
 | 2023-09-24 | 沈阳马拉松                 |            | World Athletics     |
 | 2023-09-24 | Berlin Marathon            |            | World Athletics     |
+| 2023-09-24 | 淄博马拉松                 |            | 官宣                | 🏃 |
 | 2023-10-01 | 亳州马拉松                 | 安徽       | World Athletics     |
 | 2023-10-01 | 生态大圩半程马拉松         | 安徽合肥   | World Athletics     |
 | 2023-10-08 | Chicago Marathon           |            | World Athletics     |
