@@ -59,12 +59,12 @@
 | 2023-10-01 | 亳州马拉松                 | 安徽       | World Athletics     |
 | 2023-10-01 | 生态大圩半程马拉松         | 安徽合肥   | World Athletics     |
 | 2023-10-08 | Chicago Marathon           |            | World Athletics     |
+| 2023-10-15 | 大连马拉松                 |            | 官宣                |
 | 2023-10-15 | 常州西太湖半程马拉松       |            | World Athletics     |
 | 2023-10-15 | 池州马拉松                 | 安徽       | World Athletics     |
 | 2023-10-15 | 青岛海上马拉松             |            | 官宣                | 🏃 |
 | 2023-10-15 | 潍坊马拉松                 |            | 官宣                |
 | 2023-10-22 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
-| 2023-10-22 | 大连马拉松                 |            | World Athletics     |
 | 2023-10-22 | 西安马拉松                 |            | World Athletics     |
 | 2023-10-22 | 贵州镇宁黄果树半程马拉松   | 贵州安顺   | World Athletics     |
 | 2023-10-29 | 成都马拉松                 |            | World Athletics     |
