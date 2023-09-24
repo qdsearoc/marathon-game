@@ -51,10 +51,10 @@
 | 2023-07-16 | 凉都六盘水夏季马拉松     | 贵州       | 官宣                | ✅ |
 | 2023-08-27 | 哈尔滨马拉松               |            | World Athletics     | ✅ |
 | 2023-09-10 | 枣庄马拉松                 |            | 官宣                | 2:03:26 |
-| 2023-09-17 | 沈阳马拉松                 |            | 官宣                |
-| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     |
-| 2023-09-24 | Berlin Marathon            |            | World Athletics     |
-| 2023-09-24 | 淄博马拉松                 |            | 官宣                | 😫 |
+| 2023-09-17 | 沈阳马拉松                 |            | 官宣                | ✅ |
+| 2023-09-24 | 衡水湖马拉松               | 河北       | World Athletics     | ✅ |
+| 2023-09-24 | Berlin Marathon            |            | World Athletics     | ✅ |
+| 2023-09-24 | 淄博马拉松                 |            | 官宣                | ✅😫 |
 | 2023-10-01 | 亳州马拉松                 | 安徽       | World Athletics     |
 | 2023-10-01 | 生态大圩半程马拉松         | 安徽合肥   | World Athletics     |
 | 2023-10-08 | Chicago Marathon           |            | World Athletics     |
