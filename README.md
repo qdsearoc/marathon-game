@@ -48,10 +48,10 @@
 | 2023-11-26 | 上海马拉松                 |            | World Athletics     | 😫 |
 | 2023-11-26 | 绍兴马拉松                 |            | World Athletics     |
 | 2023-12-03 | 南宁马拉松                 |            | World Athletics     |
-| 2023-12-03 | 上合昆明马拉松             |            | World Athletics     |
+| 2023-12-03 | 深圳马拉松                 |            | World Athletics     |
 | 2023-12-10 | 广州马拉松                 |            | World Athletics     |
 | 2023-12-17 | 福州马拉松                 |            | World Athletics     |
-| 2023-12-17 | 深圳马拉松                 |            | World Athletics     |
+| 2023-12-17 | 上合昆明马拉松             |            | World Athletics     |
 | 2023-12-17 | 杭州马拉松                 |            | 官宣                |
 | 2024-01-07 | 厦门马拉松                 |            | 官宣                |
 | 2024-03-17 | 无锡马拉松                 |            | AIMS                |
