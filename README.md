@@ -44,9 +44,9 @@
 | 2023-11-05 | New York Marathon          |            | World Athletics     | ✅ |
 | 2023-11-12 | 南京马拉松                 |            | 官宣                | ✅ |
 | 2023-11-12 | 南昌马拉松                 |            | World Athletics     | ✅ |
-| 2023-11-19 | 合肥马拉松                 |            | World Athletics     |
-| 2023-11-26 | 上海马拉松                 |            | World Athletics     | 😫 |
-| 2023-11-26 | 绍兴马拉松                 |            | World Athletics     |
+| 2023-11-19 | 合肥马拉松                 |            | World Athletics     | ✅ |
+| 2023-11-26 | 上海马拉松                 |            | World Athletics     | ✅😫 |
+| 2023-11-26 | 绍兴马拉松                 |            | World Athletics     | ✅ |
 | 2023-12-03 | 南宁马拉松                 |            | World Athletics     |
 | 2023-12-03 | 深圳马拉松                 |            | World Athletics     |
 | 2023-12-10 | 广州马拉松                 |            | World Athletics     |
