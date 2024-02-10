@@ -13,12 +13,9 @@
 | 2023-10-15 | 天津马拉松                 |            | 官宣                | 4:16:33 |
 | 2023-10-15 | 青岛海上马拉松             |            | 官宣                | DNS |
 | 2023-10-15 | 潍坊马拉松                 |            | 官宣                | ✅ |
-| 2023-10-22 | 黄河口（东营）马拉松       | 山东       | World Athletics     | ✅ |
 | 2023-10-29 | 济南（泉城）马拉松         |            | 官宣                | 1:54:25 |
 | 2023-11-05 | New York Marathon          |            | World Athletics     | ✅ |
 | 2023-12-03 | 深圳马拉松                 |            | World Athletics     | ✅ |
-| 2023-12-10 | 广州马拉松                 |            | World Athletics     | ✅ |
-| 2023-12-17 | 杭州马拉松                 |            | 官宣                | ✅ |
 | 2023-12-31 | 上合昆明马拉松             |            | 官宣                | ✅ |
 | 2024-01-07 | 厦门马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207328) |
 | 2024-03-17 | 苏州马拉松                 |            | 官宣                |
@@ -46,14 +43,17 @@
 | 2024-09-22 | 太原马拉松                 |            | World Athletics     |
 | 2024-10-13 | 常州西太湖半程马拉松       |            | World Athletics     |
 | 2024-10-20 | 西安马拉松                 |            | 官宣                |
+| 2024-10-20 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 |
 | 2024-10-27 | 成都马拉松                 |            | 官宣                |
 | 2024-10-27 | 北京马拉松                 |            | World Athletics     |
+| 2024-11-03 | 杭州马拉松                 |            | World Athletics     |
 | 2024-11-03 | 南京马拉松                 |            | World Athletics     |
 | 2024-11-10 | 南昌马拉松                 |            | World Athletics     |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     |
 | 2024-11-17 | 绍兴马拉松                 |            | World Athletics     |
 | 2024-12-01 | 上海马拉松                 |            | World Athletics     |
+| 2024-12-08 | 广州马拉松                 |            | World Athletics     |
 | 2024-12-15 | 福州马拉松                 |            | World Athletics     |
 | 2025-01-05 | 厦门马拉松                 |            | 官宣                |
 
