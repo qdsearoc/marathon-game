@@ -19,14 +19,14 @@
 | 2023-12-31 | 上合昆明马拉松             |            | 官宣                | ✅ |
 | 2024-01-07 | 厦门马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207328) |
 | 2024-03-17 | 桂林马拉松                 |            | 官宣                |
-| 2024-03-24 | 无锡马拉松                 |            | AIMS                |😫 |
+| 2024-03-24 | 无锡马拉松                 |            | AIMS                | [Result](https://worldathletics.org/competition/calendar-results/results/7207353) 😫 |
 | 2024-03-24 | 重庆马拉松                 |            | 官宣                |
 | 2024-03-24 | 武汉马拉松                 |            | World Athletics     |
 | 2024-03-31 | 石家庄马拉松               |            | World Athletics     |😫 |
 | 2024-03-31 | 扬州鉴真半程马拉松         |            | World Athletics     |
 | 2024-03-31 | 宿迁马拉松                 |            | 官宣                |
 | 2024-03-31 | 徐州马拉松                 |            | World Athletics     |
-| 2024-04-06 | 曲阜圣城马拉松             |            | 官宣                | 🏃 |
+| 2024-04-06 | 曲阜圣城马拉松             |            | 官宣                | 野鸡赛事退赛 |
 | 2024-04-14 | 昆明高原半程马拉松         |            | World Athletics     |
 | 2024-04-14 | 苏州马拉松                 |            | 官宣                | 3-17 延期至 4-14 |
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
