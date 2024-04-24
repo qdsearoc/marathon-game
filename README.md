@@ -22,7 +22,7 @@
 | 2024-03-24 | 无锡马拉松                 |            | AIMS                | [Result](https://worldathletics.org/competition/calendar-results/results/7207353) 😫 |
 | 2024-03-24 | 重庆马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207747) |
 | 2024-03-24 | 武汉马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207748) |
-| 2024-03-31 | 石家庄马拉松               |            | World Athletics     |😫 |
+| 2024-03-31 | 石家庄马拉松               |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207750) 😫 |
 | 2024-03-31 | 扬州鉴真半程马拉松         |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207752) |
 | 2024-03-31 | 宿迁马拉松                 |            | 官宣                |
 | 2024-03-31 | 徐州马拉松                 |            | World Athletics     |
