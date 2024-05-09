@@ -22,13 +22,12 @@
 | 2024-03-24 | 无锡马拉松                 |            | AIMS                | [Result](https://worldathletics.org/competition/calendar-results/results/7207353) 😫 |
 | 2024-03-24 | 重庆马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207747) |
 | 2024-03-24 | 武汉马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207748) |
-| 2024-03-31 | 石家庄马拉松               |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207750) 😫 |
 | 2024-03-31 | 扬州鉴真半程马拉松         |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207752) |
 | 2024-03-31 | 宿迁马拉松                 |            | 官宣                |
 | 2024-03-31 | 徐州马拉松                 |            | World Athletics     |
 | 2024-04-06 | 曲阜圣城马拉松             |            | 官宣                | 野鸡赛事退赛 |
 | 2024-04-14 | 昆明高原半程马拉松         |            | World Athletics     |
-| 2024-04-14 | 苏州马拉松                 |            | 官宣                | 3-17 延期至 4-14 |
+| 2024-04-14 | 苏州马拉松                 |            | 官宣                |
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
 | 2024-04-14 | 荣成滨海马拉松             | 山东威海  | 官宣                |
 | 2024-04-14 | 北京半程马拉松             |            | 官宣                |
@@ -36,12 +35,12 @@
 | 2024-04-21 | 南通马拉松                 |            | 官宣                |
 | 2024-04-21 | 淮安马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207757) |
 | 2024-04-21 | 上海半程马拉松             |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207745) |
-| 2024-05-19 | 青岛西海岸半程马拉松       |            | 工作计划                |
+| 2024-05-19 | 青岛西海岸半程马拉松       |            | 工作计划                | 😫 |
 | 2024-05-19 | 银川马拉松                 |            | 官宣                |
 | 2024-05-26 | 兰州马拉松                 |            | 官宣                |
 | 2024-06-16 | 贵阳马拉松                 |            | World Athletics     |
 | 2024-08-25 | 哈尔滨马拉松               |            | World Athletics     |
-| 2024-09-22 | 衡水湖马拉松               | 河北       | World Athletics     |
+| 2024-09-22 | 衡水湖马拉松               | 河北       | World Athletics     | ⏰ |
 | 2024-09-22 | 沈阳马拉松                 |            | World Athletics     |
 | 2024-09-22 | 太原马拉松                 |            | World Athletics     |
 | 2024-10-13 | 常州西太湖半程马拉松       |            | World Athletics     |
@@ -55,9 +54,10 @@
 | 2024-11-10 | 南昌马拉松                 |            | World Athletics     |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     |
 | 2024-11-17 | 绍兴马拉松                 |            | World Athletics     |
-| 2024-12-01 | 上海马拉松                 |            | World Athletics     |
+| 2024-12-01 | 上海马拉松                 |            | World Athletics     | ⏰ |
 | 2024-12-08 | 广州马拉松                 |            | World Athletics     |
 | 2024-12-15 | 福州马拉松                 |            | World Athletics     |
 | 2025-01-05 | 厦门马拉松                 |            | 官宣                |
+| 2025-03-30 | 石家庄马拉松               |            | 工作计划                | ⏰ |
 
 
