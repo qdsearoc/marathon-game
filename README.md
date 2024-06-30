@@ -17,7 +17,6 @@
 | 2023-11-05 | New York Marathon          |            | World Athletics     | ✅ |
 | 2023-12-03 | 深圳马拉松                 |            | World Athletics     | ✅ |
 | 2023-12-31 | 上合昆明马拉松             |            | 官宣                | ✅ |
-| 2024-01-07 | 厦门马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207328) |
 | 2024-03-17 | 桂林马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207772) |
 | 2024-03-24 | 无锡马拉松                 |            | AIMS                | [Result](https://worldathletics.org/competition/calendar-results/results/7207353) 😫 |
 | 2024-03-24 | 重庆马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207747) |
@@ -30,7 +29,7 @@
 | 2024-04-14 | 苏州马拉松                 |            | 官宣                |
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
 | 2024-04-14 | 荣成滨海马拉松             | 山东威海  | 官宣                |
-| 2024-04-14 | 北京半程马拉松             |            | 官宣                |
+| 2024-04-14 | 北京半程马拉松             |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207779) |
 | 2024-04-21 | 青岛马拉松                 |            | 官宣                | 4:07:47 PB [Result](https://worldathletics.org/competition/calendar-results/results/7208556) |
 | 2024-04-21 | 南通马拉松                 |            | 官宣                |
 | 2024-04-21 | 淮安马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207757) |
