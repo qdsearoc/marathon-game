@@ -53,10 +53,10 @@
 | 2024-10-27 | 成都马拉松                 |            | 官宣                |
 | 2024-10-27 | 北京马拉松                 |            | World Athletics     |
 | 2024-11-03 | 杭州马拉松                 |            | World Athletics     |
-| 2024-11-03 | 南京马拉松                 |            | World Athletics     |
 | 2024-11-10 | 南昌马拉松                 |            | World Athletics     |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     |
 | 2024-11-10 | 绍兴马拉松                 |            | World Athletics     |
+| 2024-11-17 | 南京马拉松                 |            | 官宣                |
 | 2024-12-01 | 上海马拉松                 |            | World Athletics     | ⏰ |
 | 2024-12-08 | 广州马拉松                 |            | World Athletics     |
 | 2024-12-15 | 福州马拉松                 |            | World Athletics     |
