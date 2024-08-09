@@ -22,7 +22,6 @@
 | 2024-03-24 | 武汉马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207748) |
 | 2024-03-31 | 扬州鉴真半程马拉松         |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207752) |
 | 2024-03-31 | 宿迁马拉松                 |            | 官宣                |
-| 2024-03-31 | 徐州马拉松                 |            | World Athletics     |
 | 2024-04-06 | 曲阜圣城马拉松             |            | 官宣                | 野鸡赛事退赛 |
 | 2024-04-14 | 苏州马拉松                 |            | 官宣                |
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
@@ -47,7 +46,7 @@
 | 2024-10-13 | 常州西太湖半程马拉松       |            | World Athletics     |
 | 2024-10-20 | 西安马拉松                 |            | 官宣                |
 | 2024-10-20 | 烟台马拉松                 | 山东       | 官宣                |
-| 2024-10-20 | 潍坊马拉松                 | 山东       | 官宣                |
+| 2024-10-20 | 潍坊马拉松                 | 山东       | 官宣                | ⏰ |
 | 2024-10-20 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 |
 | 2024-10-27 | 成都马拉松                 |            | 官宣                |
@@ -56,6 +55,7 @@
 | 2024-11-10 | 南昌马拉松                 |            | World Athletics     |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     |
 | 2024-11-10 | 绍兴马拉松                 |            | World Athletics     |
+| 2024-11-10 | 徐州马拉松                 |            | 江苏省体育赛事名录     |
 | 2024-11-17 | 南京马拉松                 |            | 官宣                |
 | 2024-12-01 | 上海马拉松                 |            | World Athletics     | ⏰ |
 | 2024-12-08 | 广州马拉松                 |            | World Athletics     |
