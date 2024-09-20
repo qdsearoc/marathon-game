@@ -31,10 +31,10 @@
 | 2024-05-19 | 银川马拉松                 |            | 官宣                |
 | 2024-06-16 | 贵阳马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207761) |
 | 2024-08-17 | 拉萨半程马拉松            |            | 官宣                |
-| 2024-08-25 | 哈尔滨马拉松               |            | World Athletics     |
+| 2024-08-25 | 哈尔滨马拉松               |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208267) |
 | 2024-08-25 | 西宁半程马拉松            |            | 官宣                |
 | 2024-09-01 | 长春马拉松                 |            | 官宣                |
-| 2024-09-16 | 沈阳马拉松                 |            | 官宣                |
+| 2024-09-16 | 沈阳马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207763) |
 | 2024-09-22 | 衡水湖马拉松               | 河北       | World Athletics     | ⏰ |
 | 2024-09-22 | 太原马拉松                 |            | World Athletics     |
 | 2024-09-22 | 昆明高原半程马拉松         |            | 官宣                |
@@ -42,6 +42,7 @@
 | 2024-10-20 | 烟台马拉松                 | 山东       | 官宣                |
 | 2024-10-20 | 潍坊马拉松                 | 山东       | 官宣                | ⏰ |
 | 2024-10-20 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
+| 2024-10-20 | 日照半程马拉松             | 山东       | 官宣                |
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 |
 | 2024-10-20 | 大连马拉松                 |            | 官宣                |
 | 2024-10-27 | 成都马拉松                 |            | 官宣                |
