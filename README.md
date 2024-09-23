@@ -23,7 +23,7 @@
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
 | 2024-04-14 | 荣成滨海马拉松             | 山东威海  | 官宣                |
 | 2024-04-14 | 北京半程马拉松             |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207779) |
-| 2024-04-21 | 青岛马拉松                 |            | 官宣                | 4:07:47 PB [Result](https://worldathletics.org/competition/calendar-results/results/7208556) |
+| 2024-04-21 | 青岛马拉松                 |            | 官宣                | 4:07:47 [Result](https://worldathletics.org/competition/calendar-results/results/7208556) |
 | 2024-04-21 | 南通马拉松                 |            | 官宣                |
 | 2024-04-21 | 淮安马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207757) |
 | 2024-04-21 | 上海半程马拉松             |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207745) |
@@ -35,7 +35,7 @@
 | 2024-08-25 | 西宁半程马拉松            |            | 官宣                |
 | 2024-09-01 | 长春马拉松                 |            | 官宣                |
 | 2024-09-16 | 沈阳马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207763) |
-| 2024-09-22 | 衡水湖马拉松               | 河北       | World Athletics     | ⏰ |
+| 2024-09-22 | 衡水湖马拉松               | 河北       | World Athletics     | 4:03:40 PB [Result](https://worldathletics.org/competition/calendar-results/results/7207762) |
 | 2024-09-22 | 太原马拉松                 |            | World Athletics     |
 | 2024-09-22 | 昆明高原半程马拉松         |            | 官宣                |
 | 2024-10-13 | 滨州半程马拉松             | 山东       | 官宣                |
