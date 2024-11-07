@@ -45,7 +45,7 @@
 | 2024-10-20 | 大连马拉松                 |            | 官宣                |
 | 2024-10-27 | 济南（泉城）马拉松         |            | 官宣                | 1:51:49 |
 | 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                |
-| 2024-11-03 | 北京马拉松                 |            | World Athletics     |
+| 2024-11-03 | 北京马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207358) |
 | 2024-11-03 | 杭州马拉松                 |            | World Athletics     |
 | 2024-11-03 | 西安马拉松                 |            | 官宣                |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                | 10-27 -> 11-03 |
