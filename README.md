@@ -12,7 +12,6 @@
 | 2023-10-15 | 青岛海上马拉松             |            | 官宣                | DNS |
 | 2024-03-17 | 桂林马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207772) |
 | 2024-03-24 | 无锡马拉松                 |            | AIMS                | [Result](https://worldathletics.org/competition/calendar-results/results/7207353) 😫 |
-| 2024-03-24 | 重庆马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207747) |
 | 2024-03-24 | 武汉马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207748) |
 | 2024-03-31 | 扬州鉴真半程马拉松         |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207752) |
 | 2024-03-31 | 宿迁马拉松                 |            | 官宣                |
@@ -46,7 +45,7 @@
 | 2024-10-27 | 济南（泉城）马拉松         |            | 官宣                | 1:51:49 |
 | 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                |
 | 2024-11-03 | 北京马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207358) |
-| 2024-11-03 | 杭州马拉松                 |            | World Athletics     |
+| 2024-11-03 | 杭州马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208923) |
 | 2024-11-03 | 西安马拉松                 |            | 官宣                |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                | 10-27 -> 11-03 |
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
@@ -64,6 +63,7 @@
 | 2024-12-15 | 福州马拉松                 |            | World Athletics     |
 | 2024-12-29 | 上合昆明马拉松             |            | World Athletics     |
 | 2025-01-05 | 厦门马拉松                 |            | 官宣                |
+| 2025-03-02 | 重庆马拉松                 |            | 官宣                |
 | 2025-03-30 | 石家庄马拉松               |            | 工作计划                | ⏰ |
 | 2025-05-25 | 兰州马拉松                 |            | 官宣                |
 | 2025-10-26 | 成都马拉松                 |            | 官宣                |
