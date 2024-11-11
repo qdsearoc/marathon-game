@@ -51,9 +51,9 @@
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 泰安马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 德州运河马拉松             | 山东       | 官宣                |
-| 2024-11-10 | 南昌马拉松                 |            | World Athletics     |
+| 2024-11-10 | 南昌马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208261) |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     |
-| 2024-11-10 | 绍兴马拉松                 |            | World Athletics     |
+| 2024-11-10 | 绍兴马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208558) |
 | 2024-11-17 | 徐州马拉松                 |            | 江苏省体育赛事名录     |
 | 2024-11-17 | 南京马拉松                 |            | 官宣                |
 | 2024-12-01 | 上海马拉松                 |            | World Athletics     | 😫 |
