@@ -46,7 +46,7 @@
 | 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                |
 | 2024-11-03 | 北京马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207358) |
 | 2024-11-03 | 杭州马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208923) |
-| 2024-11-03 | 西安马拉松                 |            | 官宣                |
+| 2024-11-03 | 西安马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7208265) |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                | 10-27 -> 11-03 |
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 泰安马拉松                 | 山东       | 官宣                |
