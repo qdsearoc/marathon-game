@@ -55,7 +55,7 @@
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208262) |
 | 2024-11-10 | 绍兴马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208558) |
 | 2024-11-17 | 徐州马拉松                 |            | 江苏省体育赛事名录     |
-| 2024-11-17 | 南京马拉松                 |            | 官宣                |
+| 2024-11-17 | 南京马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7216644) |
 | 2024-12-01 | 上海马拉松                 |            | World Athletics     | 😫 |
 | 2024-12-01 | 深圳马拉松                 |            | World Athletics     |
 | 2024-12-01 | 南宁马拉松                 |            | 官宣                |
