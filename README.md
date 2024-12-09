@@ -19,7 +19,6 @@
 | 2024-04-14 | 盐城马拉松                 |            | 官宣                |
 | 2024-04-14 | 荣成滨海马拉松             | 山东威海  | 官宣                |
 | 2024-04-14 | 北京半程马拉松             |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207779) |
-| 2024-04-21 | 青岛马拉松                 |            | 官宣                | 4:07:47 [Result](https://worldathletics.org/competition/calendar-results/results/7208556) |
 | 2024-04-21 | 南通马拉松                 |            | 官宣                |
 | 2024-04-21 | 淮安马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207757) |
 | 2024-04-21 | 上海半程马拉松             |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207745) |
@@ -64,6 +63,7 @@
 | 2025-03-02 | 重庆马拉松                 |            | 官宣                |
 | 2025-03-23 | 武汉马拉松                 |            | 官宣                | ⏰ |
 | 2025-03-30 | 石家庄马拉松               |            | 工作计划                | ⏰ |
+| 2025-04-20 | 青岛马拉松                 |            | 官宣                | ⏰ |
 | 2025-05-25 | 兰州马拉松                 |            | 官宣                |
 | 2025-10-26 | 成都马拉松                 |            | 官宣                |
 | 2025-11-30 | 上海马拉松                 |            | 官宣                |
