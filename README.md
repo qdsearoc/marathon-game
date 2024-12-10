@@ -56,7 +56,7 @@
 | 2024-11-17 | 南京马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7216644) |
 | 2024-12-01 | 深圳马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207770) |
 | 2024-12-01 | 南宁马拉松                 |            | 官宣                |
-| 2024-12-08 | 广州马拉松                 |            | World Athletics     |
+| 2024-12-08 | 广州马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208924) |
 | 2024-12-15 | 福州马拉松                 |            | World Athletics     |
 | 2024-12-29 | 上合昆明马拉松             |            | World Athletics     |
 | 2025-01-05 | 厦门马拉松                 |            | 官宣                |
