@@ -33,7 +33,6 @@
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 | [Result](https://worldathletics.org/competition/calendar-results/results/7208723) |
 | 2024-10-27 | 济南（泉城）马拉松         |            | 官宣                | 1:51:49 |
 | 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                |
-| 2024-11-03 | 北京马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207358) |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                |
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 泰安马拉松                 | 山东       | 官宣                |
@@ -64,6 +63,7 @@
 | 2025-09-21 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
 | 2025-10-19 | 西安马拉松                 |            | World Athletics     |
 | 2025-10-26 | 成都马拉松                 |            | 官宣                |
+| 2025-11-02 | 北京马拉松                 |            | World Athletics     |
 | 2025-11-02 | 杭州马拉松                 |            | World Athletics     |
 | 2025-11-30 | 上海马拉松                 |            | 官宣                |
 
