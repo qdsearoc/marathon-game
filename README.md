@@ -28,7 +28,7 @@
 | 2024-10-20 | 日照半程马拉松             | 山东       | 官宣                |
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 | [Result](https://worldathletics.org/competition/calendar-results/results/7208723) |
 | 2024-10-27 | 济南（泉城）马拉松         |            | 官宣                | 1:51:49 |
-| 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                |
+| 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7208264) |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                |
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 泰安马拉松                 | 山东       | 官宣                |
