@@ -11,11 +11,7 @@
 | 2023-10-15 | 天津马拉松                 |            | 官宣                | 4:16:33 首马 |
 | 2024-04-06 | 曲阜圣城马拉松             |            | 官宣                | 野鸡赛事退赛 |
 | 2024-04-14 | 荣成滨海马拉松             | 山东威海  | 官宣                |
-| 2024-04-21 | 南通马拉松                 |            | 官宣                |
-| 2024-04-21 | 淮安马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207757) |
-| 2024-04-21 | 上海半程马拉松             |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207745) |
 | 2024-05-19 | 银川马拉松                 |            | 官宣                |
-| 2024-06-16 | 贵阳马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207761) |
 | 2024-08-17 | 拉萨半程马拉松            |            | 官宣                |
 | 2024-08-25 | 西宁半程马拉松            |            | 官宣                |
 | 2024-09-16 | 沈阳马拉松                 |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7207763) |
@@ -27,17 +23,12 @@
 | 2024-10-20 | 日照半程马拉松             | 山东       | 官宣                |
 | 2024-10-20 | 长沙马拉松                 |            | CAA                 | [Result](https://worldathletics.org/competition/calendar-results/results/7208723) |
 | 2024-10-27 | 济南（泉城）马拉松         |            | 官宣                | 1:51:49 |
-| 2024-11-02 | 常州西太湖半程马拉松       |            | 官宣                | [Result](https://worldathletics.org/competition/calendar-results/results/7208264) |
 | 2024-11-03 | 郑州马拉松                 |            | 官宣                |
 | 2024-11-03 | 临沂马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 泰安马拉松                 | 山东       | 官宣                |
 | 2024-11-03 | 德州运河马拉松             | 山东       | 官宣                |
 | 2024-11-10 | 南昌马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208261) |
 | 2024-11-10 | 合肥马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208262) |
-| 2024-11-10 | 绍兴马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208558) |
-| 2024-12-01 | 深圳马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7207770) |
-| 2024-12-01 | 南宁马拉松                 |            | 官宣                |
-| 2024-12-15 | 福州马拉松                 |            | World Athletics     | [Result](https://worldathletics.org/competition/calendar-results/results/7208560) |
 | 2024-12-29 | 上合昆明马拉松             |            | World Athletics     |
 | 2025-01-05 | 厦门马拉松                 |            | 官宣                |
 | 2025-03-02 | 重庆马拉松                 |            | 官宣                |
@@ -46,15 +37,19 @@
 | 2025-03-16 | 南京半程马拉松             |            | 官宣                |
 | 2025-03-23 | 武汉马拉松                 |            | 官宣                | 😫 |
 | 2025-03-23 | 无锡马拉松                 |            | World Athletics     | 🏃 |
+| 2025-03-23 | 南通马拉松                 |            | 官宣                |
 | 2025-03-23 | 宁波马拉松                 |            | 官宣                |
 | 2025-03-30 | 石家庄马拉松               |            | 工作计划                |
 | 2025-03-30 | 盐城马拉松                 |            | 官宣                |
 | 2025-03-30 | 扬州鉴真半程马拉松         |            | World Athletics     |
 | 2025-04-06 | 青岛西海岸半程马拉松       |            | 官宣                | ⏰ |
+| 2025-04-13| 淮安马拉松                 |            | World Athletics     |
 | 2025-04-20 | 青岛马拉松                 |            | 官宣                | 😫 |
+| 2025-04-20 | 上海半程马拉松             |            | World Athletics     |
 | 2025-05-11 | 大连马拉松                 |            | World Athletics     |
 | 2025-05-25 | 长春马拉松                 |            | 官宣                |
 | 2025-05-25 | 兰州马拉松                 |            | 官宣                |
+| 2025-06-10 | 贵阳马拉松                 |            | World Athletics     |
 | 2025-08-31 | 哈尔滨马拉松               |            | World Athletics     |
 | 2025-09-21 | 太原马拉松                 |            | World Athletics     |
 | 2025-10-19 | 黄河口（东营）马拉松       | 山东       | World Athletics     |
@@ -62,8 +57,12 @@
 | 2025-10-26 | 成都马拉松                 |            | 官宣                |
 | 2025-11-02 | 北京马拉松                 |            | World Athletics     |
 | 2025-11-02 | 杭州马拉松                 |            | World Athletics     |
+| 2025-11-02 | 常州西太湖半程马拉松       |            | World Athletics     |
 | 2025-11-16 | 南京马拉松                 |            | World Athletics     |
+| 2025-11-23 | 绍兴马拉松                 |            | World Athletics     |
 | 2025-11-30 | 上海马拉松                 |            | 官宣                |
+| 2025-12-07 | 南宁马拉松                 |            | World Athletics     |
+| 2025-12-14 | 福州马拉松                 |            | World Athletics     |
 | 2025-12-21 | 广州马拉松                 |            | World Athletics     |
 
 
